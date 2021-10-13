@@ -1,4 +1,5 @@
-site_name: obsidian-mkdocs template
+site_name: obsidian-jeng-notes
+site_url: https://cjl12377.github.io/obsidian-jeng-notes/
 
 theme:
     name: 'material'
